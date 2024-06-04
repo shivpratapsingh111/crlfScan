@@ -1,0 +1,12 @@
+# Dirsearch started Mon Jun  3 00:44:09 2024 as: /home/cyrusop/.local/bin/dirsearch -u https://101.32.174.108/ -w /home/cyrusop/bugBounty/wordlists/mixedBig.txt
+
+301   169B   https://101.32.174.108/.    -> REDIRECTS TO: http://101.32.174.108/./
+400   157B   https://101.32.174.108/%00.cfm
+400   157B   https://101.32.174.108/%2E%2E/%2E%2E/%2E%2E/%2E%2E/%2E%2E/windows/win.ini
+400   157B   https://101.32.174.108/%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f../boot.ini
+400   157B   https://101.32.174.108/..2fetc2fpasswd%00
+200   494B   https://101.32.174.108/50x.html
+400   157B   https://101.32.174.108/../../../../../../../../../boot.ini
+400   157B   https://101.32.174.108///./../.../boot.ini
+400   157B   https://101.32.174.108/cgi.cgi/info2www%20'(../../../../../../../bin/mail%20root%20</etc/passwd>
+400   157B   https://101.32.174.108/cgi.cgi/ssi//../../../../../../../etc/passwd
